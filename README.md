@@ -1,0 +1,2 @@
+# sqlz
+A simple database
